@@ -1,1 +1,1 @@
-# This repositories includes the assignment for module 2 Lesson 1.
+# This repository includes the assignment for module 2 Lesson 1.
